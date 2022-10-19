@@ -38,14 +38,17 @@
         height : 55%;
     }
     #remercy{
-        margin: 20px 5%;
+        margin: 20px 15%;
     }
     #remercy .box-spons{
         margin: 15px 1.5%;
         width : 45%;
     }
     #event{
-        width : 100%;
+        width : 130%;
         margin : 0;
+    }
+    #contact{
+        width : 130%;
     }
 }
